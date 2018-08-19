@@ -1,0 +1,15 @@
+C:\Users\Litchi-user1\Desktop\coreapp2.0\obj\Debug\netcoreapp2.0\coreapp2.0.csprojAssemblyReference.cache
+C:\Users\Litchi-user1\Desktop\coreapp2.0\obj\Debug\netcoreapp2.0\coreapp2.0.csproj.CoreCompileInputs.cache
+C:\Users\Litchi-user1\Desktop\coreapp2.0\obj\Debug\netcoreapp2.0\coreapp2.0.AssemblyInfoInputs.cache
+C:\Users\Litchi-user1\Desktop\coreapp2.0\obj\Debug\netcoreapp2.0\coreapp2.0.AssemblyInfo.cs
+C:\Users\Rudra\Desktop\coreapp2.0\bin\Debug\netcoreapp2.0\coreapp2.0.deps.json
+C:\Users\Rudra\Desktop\coreapp2.0\bin\Debug\netcoreapp2.0\coreapp2.0.runtimeconfig.json
+C:\Users\Rudra\Desktop\coreapp2.0\bin\Debug\netcoreapp2.0\coreapp2.0.runtimeconfig.dev.json
+C:\Users\Rudra\Desktop\coreapp2.0\bin\Debug\netcoreapp2.0\coreapp2.0.dll
+C:\Users\Rudra\Desktop\coreapp2.0\bin\Debug\netcoreapp2.0\coreapp2.0.pdb
+C:\Users\Rudra\Desktop\coreapp2.0\obj\Debug\netcoreapp2.0\coreapp2.0.csproj.CoreCompileInputs.cache
+C:\Users\Rudra\Desktop\coreapp2.0\obj\Debug\netcoreapp2.0\coreapp2.0.AssemblyInfoInputs.cache
+C:\Users\Rudra\Desktop\coreapp2.0\obj\Debug\netcoreapp2.0\coreapp2.0.AssemblyInfo.cs
+C:\Users\Rudra\Desktop\coreapp2.0\obj\Debug\netcoreapp2.0\coreapp2.0.dll
+C:\Users\Rudra\Desktop\coreapp2.0\obj\Debug\netcoreapp2.0\coreapp2.0.pdb
+C:\Users\Rudra\Desktop\coreapp2.0\obj\Debug\netcoreapp2.0\coreapp2.0.csprojAssemblyReference.cache
