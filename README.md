@@ -2,8 +2,15 @@
 aspnet core demo app
 
 Just do 
--dotnet restore
--dotnet run
+
+add-migration giveitaname  
+update-database  
+
+-dotnet restore  
+-dotnet run  
+
+
+
 
 Have fun :)
 
